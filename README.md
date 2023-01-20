@@ -2,7 +2,7 @@
 
 ## Projeto Cordel - Site 💌
 
-![preview](./.github/CordelModerno.gif)
+![preview](imagens/CordelModerno.gif)
 
 Projeto desevolvido através dos conhenhecimentos obtidos no cursos lecionados pelo professor Gustavo Guanabara, Curso em Vídeo.
 Nesse site utilazamos efeito paralaxe das imagens, aprimorando os conhecimentos ao criar sites.
