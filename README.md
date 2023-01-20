@@ -5,7 +5,7 @@
 ![preview](imagens/CordelModerno.gif)
 
 Projeto desevolvido através dos conhenhecimentos obtidos no curso de HTML5 e CSS3, lecionados pelo professor Gustavo Guanabara, Curso em Vídeo.
-Nesse site utilazamos efeito paralaxe das imagens, aprimorando os conhecimentos ao criar sites.
+Nesse site utilizamos o efeito paralaxe das imagens, aprimorando os conhecimentos ao criar sites.
 
 [🔗 Clique aqui para acessar](https://ramonbarret.github.io/ProjetoCordel/)
 
