@@ -2,6 +2,7 @@
 
 ## Projeto Cordel - Site 💌
 
+> Aperte o <strong>play</strong> para visualizar o gif!
 ![preview](imagens/CordelModerno.gif)
 
 Projeto desevolvido através dos conhenhecimentos obtidos no curso de HTML5 e CSS3, lecionados pelo professor Gustavo Guanabara, Curso em Vídeo.
